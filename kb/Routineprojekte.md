@@ -5,7 +5,7 @@ author: fadiarabo
 anrechnung: k oder a
 ---
 
-Kurzbeschreibung zu Routineprojekte um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Routine-Projekte gehören zu den 4 Arten des Projektmanagements und stellen eine wichtige Art und Weise dar, sein Projekt anzugehen. Ähnlichkeit besitzt es nämlich in zeitlicher Begrenzung[^1]
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
