@@ -5,7 +5,7 @@ author: fadiarabo
 anrechnung: k oder a
 ---
 
-Kurzbeschreibung zu Routineprojekte um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Routine-Projekte gehören zu den 4 Arten des Projektmanagements und stellen eine wichtige Art und Weise dar, sein Projekt anzugehen. Ähnlichkeit besitzt es nämlich in zeitlicher Begrenzung und bereichsübergreifender Beteiligung, haben jedoch strukturelle und kulturelle Unterschiede zur herkömmlichen Organisation[^1].
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
@@ -97,7 +97,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
+[^1]: [Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...] (https://www.cio.de/a/die-vier-projekttypen,3230971)
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
